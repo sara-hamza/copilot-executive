@@ -1,7 +1,7 @@
 ---
 name: executive-briefing
 description: This skill should be used when an executive, general manager, chief of staff or executive assistant provides several reports, board papers, meeting notes, risk registers or spreadsheets and asks "what matters", "brief me", "what decisions do I need to make", "consolidate the risks", "one page for the exec meeting". Local only; every point is traced to its source and the executive decides.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Executive Briefing
